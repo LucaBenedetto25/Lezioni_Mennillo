@@ -1,5 +1,5 @@
 # Appunti Linux 
-
+![Git Icona]()
 - `git commit` Questo comando prepara i file in una sessione di staging
 - `git push` Questo serve ad inviare il codice in remoto
 - `git pull` Questo comando serve a recuperare il file da remoto
